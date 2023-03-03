@@ -32,6 +32,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Snapclima é um aplicativo web que permite buscar e exibir informações, de forma responsiva, sobre o clima de uma determinada região.
 
+<p>Clique <a href="https://valdeneir.github.io/snapclima/">Aqui</a> para ver o projeto. </p>
+
 
 ## :memo: Licença
 
